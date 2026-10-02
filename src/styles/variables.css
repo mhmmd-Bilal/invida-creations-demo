@@ -1,0 +1,7 @@
+:root {
+  --ivory: #f7f4ee; --cream: #eee8df; --paper: #e5ded3; --charcoal: #25221f;
+  --muted: #777067; --brown: #8b7967; --champagne: #c7b39d; --white: #ffffff;
+  --serif: "Cormorant Garamond", serif; --sans: "DM Sans", sans-serif; --sans-site: "Manrope", "DM Sans", system-ui, sans-serif;
+  --pad-site: clamp(20px, 5vw, 72px); --gap: clamp(8px, 1.4vw, 20px);
+  --container: 1280px; --pad: clamp(20px, 5vw, 40px); --ease: cubic-bezier(.2,.8,.2,1);
+}
